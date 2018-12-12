@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<Title>A Page on Einstein</Title>
+<!script type="text/javascript" src="animate1.js"> </script>
+<script type="text/javascript" src="SlideShow1_New.js"> </script>
+</HEAD>
+<BODY>
+<H1><center><font color="blue">This WebPage is about the Great Genius of All Time - Albert Einstein</center></H1>
+<center><img src = "Einstein_Image.jpg"  height="150" width="150"></center>
+<br>
+<br>
+<br>
+<H3><center><font color = "green">He was born in Germany in 1879 and died in the USA in 1955</center></H3>
+<H3><center>He liked maths and science and he worked very hard</center></H3>
+<H3><center>In 1905 he published the very famous equation</center></H3>
+<div id="boat" style="width:270px;height:200px;background:url(Animate.png)">
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<H3><center><font color = "purple">And a result of this equation we now have GPS systems, Space Travel, Medical Imaging, Power Stations</center></H3>
+<div>
+<center><img id="pic" width="120" height="120" alt="Icon" src="SlideshowPicture1.png"></center>
+</div>
+</BODY>
+</HTML>
